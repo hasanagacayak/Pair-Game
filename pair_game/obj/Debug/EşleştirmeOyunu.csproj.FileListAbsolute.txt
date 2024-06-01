@@ -1,0 +1,6 @@
+D:\Hasan\Online Eğitim\Staj\pair_game\pair_game\obj\Debug\EşleştirmeOyunu.csprojAssemblyReference.cache
+D:\Hasan\Online Eğitim\Staj\pair_game\pair_game\obj\Debug\Interop.MSDATASRC.dll
+D:\Hasan\Online Eğitim\Staj\pair_game\pair_game\obj\Debug\EşleştirmeOyunu.csproj.ResolveComReference.cache
+D:\Hasan\Online Eğitim\Staj\pair_game\pair_game\obj\Debug\EşleştirmeOyunu.Form1.resources
+D:\Hasan\Online Eğitim\Staj\pair_game\pair_game\obj\Debug\EşleştirmeOyunu.Form2.resources
+D:\Hasan\Online Eğitim\Staj\pair_game\pair_game\obj\Debug\EşleştirmeOyunu.csproj.GenerateResource.cache
