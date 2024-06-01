@@ -1,0 +1,14 @@
+C:\Users\HasanAgacayakk\OneDrive - gazi.edu.tr\Masaüstü\PairGame\EşleştirmeOyunu\bin\Debug\EşleştirmeOyunu.exe.config
+C:\Users\HasanAgacayakk\OneDrive - gazi.edu.tr\Masaüstü\PairGame\EşleştirmeOyunu\bin\Debug\EşleştirmeOyunu.exe
+C:\Users\HasanAgacayakk\OneDrive - gazi.edu.tr\Masaüstü\PairGame\EşleştirmeOyunu\bin\Debug\EşleştirmeOyunu.pdb
+C:\Users\HasanAgacayakk\OneDrive - gazi.edu.tr\Masaüstü\PairGame\EşleştirmeOyunu\obj\Debug\EşleştirmeOyunu.csproj.AssemblyReference.cache
+C:\Users\HasanAgacayakk\OneDrive - gazi.edu.tr\Masaüstü\PairGame\EşleştirmeOyunu\obj\Debug\EşleştirmeOyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\HasanAgacayakk\OneDrive - gazi.edu.tr\Masaüstü\PairGame\EşleştirmeOyunu\obj\Debug\Interop.MSDATASRC.dll
+C:\Users\HasanAgacayakk\OneDrive - gazi.edu.tr\Masaüstü\PairGame\EşleştirmeOyunu\obj\Debug\EşleştirmeOyunu.csproj.ResolveComReference.cache
+C:\Users\HasanAgacayakk\OneDrive - gazi.edu.tr\Masaüstü\PairGame\EşleştirmeOyunu\obj\Debug\EşleştirmeOyunu.Form1.resources
+C:\Users\HasanAgacayakk\OneDrive - gazi.edu.tr\Masaüstü\PairGame\EşleştirmeOyunu\obj\Debug\EşleştirmeOyunu.Form2.resources
+C:\Users\HasanAgacayakk\OneDrive - gazi.edu.tr\Masaüstü\PairGame\EşleştirmeOyunu\obj\Debug\EşleştirmeOyunu.Properties.Resources.resources
+C:\Users\HasanAgacayakk\OneDrive - gazi.edu.tr\Masaüstü\PairGame\EşleştirmeOyunu\obj\Debug\EşleştirmeOyunu.csproj.GenerateResource.cache
+C:\Users\HasanAgacayakk\OneDrive - gazi.edu.tr\Masaüstü\PairGame\EşleştirmeOyunu\obj\Debug\EşleştirmeOyunu.csproj.CoreCompileInputs.cache
+C:\Users\HasanAgacayakk\OneDrive - gazi.edu.tr\Masaüstü\PairGame\EşleştirmeOyunu\obj\Debug\EşleştirmeOyunu.exe
+C:\Users\HasanAgacayakk\OneDrive - gazi.edu.tr\Masaüstü\PairGame\EşleştirmeOyunu\obj\Debug\EşleştirmeOyunu.pdb
